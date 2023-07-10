@@ -1,15 +1,13 @@
 {
   "name": "week-1-introduction-to-web-programming",
   "version": "1.0.0",
-  "description": "",
+  "description": "my week 1 exercises",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
+    "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "dependencies": {
-    "parcel-bundler": "^1.6.1"
-  },
+  "dependencies": { "parcel-bundler": "^1.6.1 },
   "devDependencies": {
     "@babel/core": "7.2.0",
     "typescript": "4.4.4"
@@ -17,5 +15,5 @@
   "resolutions": {
     "@babel/preset-env": "7.13.8"
   },
-  "keywords": []
+  "keywords": ["javascript", "starter"]
 }
